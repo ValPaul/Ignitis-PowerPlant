@@ -1,0 +1,6 @@
+@Ignitis_Task_HostAddress = http://localhost:5026
+
+GET {{Ignitis_Task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
